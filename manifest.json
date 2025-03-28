@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Webcam Extension",
+    "version": "1.0",
+    "description": "A simple extension to access webcam",
+    "permissions": ["activeTab"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
